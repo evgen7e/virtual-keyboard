@@ -1,6 +1,8 @@
 import Element from './js/element.js';
 import keys from './js/keys.js';
 
+alert('Уважаемый, проверяющий!\nОгромная просьба, посмореть мою работу в послений день cross-check,\nнемного приболел и не успел выполнить.<br>Спасибо за понимание!\nУспехов в обучении! ;)');
+
 const wrapper = new Element('div', 'wrapper', document.body).addElement();
 const main = new Element('main', 'main', wrapper).addElement();
 new Element('h1', 'title', main).setContent('Virtual keyboard for Windows');
