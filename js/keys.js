@@ -71,7 +71,7 @@ const keys = [
       { key: { ru: '◄', en: '◄' }, code: 'ArrowLeft', },
       { key: { ru: '▼', en: '▼' }, code: 'ArrowDown', },
       { key: { ru: '►', en: '►' }, code: 'ArrowRight', },
-      { key: { ru: 'RU', en: 'EN' }, code: 'Lang', },
+      { key: { ru: 'EN', en: 'RU' }, code: 'Lang', },
     ],
   ];
   
